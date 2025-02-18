@@ -7,6 +7,11 @@ This project builds a **Convolutional Neural Network (CNN)** from scratch to cla
 
 Using **PyTorch**, we train the CNN on the **Intel Image Classification Dataset**, optimizing it for accuracy and generalization. The final model achieves a **test accuracy of 84.13%**.
 
+## 🔗 View the Notebook on Kaggle  
+You can view and run this notebook directly on **Kaggle** using the link below:  
+
+➡️ **[Intel Image Classifier - Kaggle Notebook](https://www.kaggle.com/code/andrslvarezpea/image-classifier-with-cnns-in-pytorch)**
+
 ---
 
 ## 📂 Dataset
